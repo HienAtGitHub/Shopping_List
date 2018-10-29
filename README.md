@@ -3,4 +3,4 @@ This Android Application is designed and implemented for users to note down the 
 Below is the demo of how my Shopping List application works
 
 
-![](https://user-images.githubusercontent.com/23411563/47627908-25ca3e80-db09-11e8-956f-84f336276c86.gif)
+![](https://user-images.githubusercontent.com/23411563/47628191-b81f1200-db0a-11e8-9d34-7991dd9140b9.gif)
